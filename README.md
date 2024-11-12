@@ -15,5 +15,12 @@ While the agent's skills are far from perfect, the goal of this initial version 
 2. Install dependencies
    '''sh
    pip install -r requirements.txt
-4. Run train_stablebaselines3.py
-5. Run play.py
+3. Install pytorch with cuda
+
+## Usage
+1. Run train_stablebaselines3.py
+2. Run play.py
+
+## Future Plans
+- Improve agent performance and make the agent more aggressive in seeking fruits
+- Try different models, reward fucntions and hyperparameters
