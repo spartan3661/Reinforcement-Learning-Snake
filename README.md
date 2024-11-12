@@ -22,4 +22,4 @@ While the agent is not very good, it only seems to avoid dying, the goal of this
 
 ## Future Plans
 - Improve agent performance and make the agent more aggressive in seeking fruits
-- Try different models, reward fucntions and hyperparameters
+- Try different models, reward functions and hyperparameters
