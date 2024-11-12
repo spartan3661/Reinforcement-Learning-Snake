@@ -1,7 +1,6 @@
 !*.py
-
 *.pth
 *.zip
-
 venv/
 __pychache__/
+debug_train.py
